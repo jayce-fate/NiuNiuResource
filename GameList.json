@@ -1,0 +1,35 @@
+{
+	"code":0,
+	"msg":null,
+	"data":
+	{
+		"valid":true,
+		"downloadurl":"https://raw.githubusercontent.com/jayce-fate/Resource/master/download",
+		"clientversion":"3",
+		"resversion":"23",
+		"ios_url":"https://itunes.apple.com/cn/app/id1377580878?mt=8",
+		"wxLogon":1,
+		"isOpenCard":0,
+		"gamelist":[
+			{
+				"KindID":"27",
+				"KindName":"牛牛",
+				"TypeID":"0",
+				"ModuleName":"yule.oxnew",
+				"ClientVersion":"101122049",
+				"ResVersion":"10",
+				"SortID":"3",
+				"KindMark":"3"
+			},
+			{
+				"KindID":"102",
+				"KindName":"二人牛牛",
+				"TypeID":"0",
+				"ModuleName":"yule.oxex",
+				"ClientVersion":"101122049",
+				"ResVersion":"10",
+				"SortID":"4",
+				"KindMark":"3"
+			}]
+	}
+}
